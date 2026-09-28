@@ -1,0 +1,2 @@
+# GRADIENT-FREE-LOW-RANK-ADAPTATION-OF-LARGE-LANGUAGE-MODELS-FOR-FEW-SHOT-LEARNING
+Gradient-Free Low-Rank Adaptation (DFO-LoRA) for few-shot learning with Large Language Models, combining LoRA with CMA-ES and Fireworks Algorithm optimization. Implemented using RoBERTa-base and evaluated on SST-2, Yelp, AGNews, and DBPedia, focusing on accuracy, F1-score, memory usage, and optimization time using gradient-free training.
